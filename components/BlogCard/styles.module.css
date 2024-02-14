@@ -1,0 +1,12 @@
+.blogCardLink{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 3rem;
+    border-radius: 2rem;
+}
+.blogCardTitle{
+    font-size: 30px;
+    
+}
